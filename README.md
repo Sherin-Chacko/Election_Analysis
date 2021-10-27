@@ -8,13 +8,13 @@ A) The purpose of this audit is to analyse the election results and present them
 
 B) RESOURCES : 
 * Data source : election_results.csv
-* Software: Python 3.8.8, Visual Studio Code
+* Software: Python 3.8.8 and Visual Studio Code
 
 ### 2) ELECTION AUDIT RESULTS:
 Following are the election outcomes-
 
-* Total votes were cast in this congressional election = 369,711
-* Provide a breakdown of the number of votes and the percentage of total votes for each county
+* Total votes that were cast in the congressional election = 369,711
+* Breakdown of the number of votes and the percentage of total votes for each county
 
       **County Votes**
 
@@ -34,6 +34,9 @@ Following are the election outcomes-
       Winner: Diana DeGette
       Winning Vote Count: 272,892
       Winning Percentage: 73.8%
+      
+A snapshot of the election_results.txt file is shown below:
+
 
 ### 3) ELECTION AUDIT SUMMARY:
 a) This script can be modified to include larger dataset in the csv file representing candidate age, gender and their race . We can perform indexing with for loop variables as a simple addition to the existing code. Details such as vote turnout by political party can be summarized using this code, by adding if-statements, as well.
