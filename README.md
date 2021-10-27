@@ -1,10 +1,14 @@
 ## ELECTION_ANALYSIS
 
 ### 1) OVERVIEW OF ELECTION AUDIT:
-The purpose of this audit is to analyse the election results and present them to the election commission. It includes the following additional data:
+A) The purpose of this audit is to analyse the election results and present them to the election commission. It includes the following additional data:
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
+
+B) RESOURCES : 
+* Data source : election_results.csv
+* Software: Python 3.8.8, Visual Studio Code
 
 ### 2) ELECTION AUDIT RESULTS:
 Following are the election outcomes-
