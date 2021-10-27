@@ -16,8 +16,7 @@ Following are the election outcomes-
 * Total votes that were cast in the congressional election = 369,711
 * Breakdown of the number of votes and the percentage of total votes for each county
 
-      **County Votes**
-
+      County Votes
       Jefferson: 10.5% (38,855)
       Denver: 82.8% (306,055)
       Arapahoe: 6.7% (24,801)
@@ -37,6 +36,7 @@ Following are the election outcomes-
       
 A snapshot of the election_results.txt file is shown below:
 
+<img width="371" alt="Screen Shot 2021-10-27 at 10 20 54 AM" src="https://user-images.githubusercontent.com/91294352/139085043-e824c6ea-c7a4-4f94-8e0d-f5b820d48cfa.png">
 
 ### 3) ELECTION AUDIT SUMMARY:
 a) This script can be modified to include larger dataset in the csv file representing candidate age, gender and their race . We can perform indexing with for loop variables as a simple addition to the existing code. Details such as vote turnout by political party can be summarized using this code, by adding if-statements, as well.
