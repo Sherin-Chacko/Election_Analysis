@@ -32,7 +32,7 @@ Following are the election outcomes-
       Winning Percentage: 73.8%
 
 ### 3) ELECTION AUDIT SUMMARY:
-a) This script can be modified to include larger dataset in the csv file representing candidate age, gender and their race . We can perform indexing with for loop variables as a simple addition to the existing code. Relevant information such as vote turnout by political party would be easily summarized using this code, by adding if-statements, as well.
+a) This script can be modified to include larger dataset in the csv file representing candidate age, gender and their race . We can perform indexing with for loop variables as a simple addition to the existing code. Details such as vote turnout by political party can be summarized using this code, by adding if-statements, as well.
 
-b) We could represent data from cities and not just counties. We can determine which cities hold a significant position in determining if a candidate would be the winner of the election. This data can be added into our election_results.csv file then basically do the same concept as we did for our counties challenge in this script.
+b) We could represent data from cities and not just counties. We can determine which cities hold a significant position in determining if a candidate would be the winner of the election. This data can be added into our election_results.csv file then basically run the same script as we did for our counties challenge in this module.
 
